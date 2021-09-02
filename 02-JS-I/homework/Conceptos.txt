@@ -1,0 +1,5 @@
+Variables: las variables son una entidad, como un objeto o una caja en la cual se pueden guardar diferentes tipos de valores, como ejemplo una caja puede guardar juguetes y el valor de la caja ahora seria juguetes.
+Strings: los strings son como una cadena de caracteres como en la palabra 'arbol', el string comienza desde la 'a' y termina en la 'l', por que es la cadena que estamos definiendo para crea un nuevo objeto.
+Funciones (return): las funciones nos permiten ejecutar y calcular un valor especifico dentro del programa, un ejemplo de su uso es cuando se planea usar mucho codigo, este se podria automatizar con una funcion, y el return es una instrucción para devolver el valor calculado por la funcion.
+Declaraciones (if): son como un "checkpoint", dentro de mi programa me sirve para controlar el flujo del mismo a traves de ciertas condiciones declaradas.
+
