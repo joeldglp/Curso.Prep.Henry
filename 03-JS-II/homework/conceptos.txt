@@ -1,0 +1,5 @@
+Homework: Javascript II | conceptos 'for' y '&&, ||, !'
+for: la expresion for es un bucle dentro del lenguaje js, y un bucle seria algo así como dar una instrucción para contar, para que se puede llevar a cabo la tarea te tengo que decir que contar, hasta cuanto contar y desde donde contar, como ejemplo te puedo pedir que metas dulces que es la variable o el que contar, dentro de una bolsa que tiene 0 dulces y que pares cuando tengas 20 dulces en la bolsa, repetiras la accion de meter dulces hasta que llegues a 20. Eso es un bucle.
+
+&&, ||, !: estos operadores son operadores logicos, visto de otra manera son una especie de condicionantes para saber si algo es true or false, un ejemplo seria como cuando tus padres te piden que realices cietas tareas para jugar videojuegos, como hacer la tarea, tender la cama y lavarte los dientes, entonces si alguna de estas condiciones no se cumplen sabes que no puedes jugar videojuegos, a menos que cumplas todas las condiciones, eso seria equivalente a && donde todas las condiciones tienen que ser true, existe tablas de verdad, donde se pueden consultar todas estas condiciones de nuestros operadores logicos.
+
