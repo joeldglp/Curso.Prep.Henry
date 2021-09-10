@@ -1,0 +1,2 @@
+prototype: el prototype es como un respaldo del objeto, el cual tendra propiedades heredadas del prototype
+Constructors: los constructores son un metodo para iniciar y crear objetos a partir de una clase ya definida, o sea una plantilla, vendrian a hacer como una fabrica dentro del codigo que me construye objetos a partir de una plantilla definida.
